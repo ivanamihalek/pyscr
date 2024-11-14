@@ -5,5 +5,5 @@ def main():
 
 
 #######################
-if __name__ == "__Main__":
+if __name__ == "__main__":
     main()
